@@ -1,0 +1,25 @@
+{
+    "name": "new-horizon",
+    "displayName": "New Horizon",
+    "publisher": "LeanLimaC",
+    "author": {
+        "name": "Leandro de Lima Cuminato"
+    },
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.00.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "New Horizon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/New Horizon-color-theme.json"
+            }
+        ]
+    }
+}
